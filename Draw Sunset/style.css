@@ -1,0 +1,17 @@
+h1 {
+    font-family: Verdana, Gevena, Tahoma, sans-serif;
+}
+
+canvas {
+    border: 1px solid grey;
+}
+
+body {
+    text-align: center;
+}
+
+img{
+    display: none;
+
+
+}
